@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70629534391",
+    "firebase_url": "https://loggerwithtimber.firebaseio.com",
+    "project_id": "loggerwithtimber",
+    "storage_bucket": "loggerwithtimber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70629534391:android:55adaa2a1f638b07",
+        "android_client_info": {
+          "package_name": "com.nguyendinhdoan.loggerwithtimber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70629534391-7q2v1amo8ph2t39018ldthvvesa0pcut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nguyendinhdoan.loggerwithtimber",
+            "certificate_hash": "78185f79a90aa325b63e6c0311f97f1fd882dde0"
+          }
+        },
+        {
+          "client_id": "70629534391-o6bt0qro6dj3bn9ifq7m6npclvb6tedp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhtFYDOikGVldwte3xPRW14q0Fr-W4_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70629534391-o6bt0qro6dj3bn9ifq7m6npclvb6tedp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
